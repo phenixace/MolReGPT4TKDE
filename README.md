@@ -1,5 +1,5 @@
 # MolReGPT
-Anonymous code repo for AAAI submission: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspectiv
+Anonymous code repo for TKDE submission: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspectiv
 
 ## Requirements
 
