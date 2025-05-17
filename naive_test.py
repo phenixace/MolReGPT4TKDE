@@ -1,4 +1,4 @@
-from dataset.molt5_dataset import Mol2CaptionDataset
+from molt5_dataset import Mol2CaptionDataset
 from transformers import AutoTokenizer
 from evaluations.text_translation_metrics import text_evaluate
 from evaluations.mol_translation_metrics import mol_evaluate
